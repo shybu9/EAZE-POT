@@ -6,8 +6,6 @@ import sys
 import pyfiglet as fig
 from colorama import init, Fore
 import time
-import ipaddress
-from tkinter import *
 
 
 # __COLOURS
