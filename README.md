@@ -1,8 +1,8 @@
 # EAZE_POT
   a simple honeypot -easy to deploy -easy to run
   
-![eazepot main](https://user-images.githubusercontent.com/112984045/220193753-dcf2a238-c3b7-4493-9251-1dd5cbca6860.png)
 
+![20230302_223954](https://user-images.githubusercontent.com/112984045/222503364-670a695a-f534-4401-86e2-1f13121065a7.jpg)
 
 ### PRE-REQUIREMENTS  
 * Python3 :
