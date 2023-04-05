@@ -24,7 +24,7 @@
  
  ### USAGE
  ```bash
-      python3 honeypot.py
+      sudo python3 honeypot.py
  ```
 
 * any kind of access to given IP:PORT will be reported
