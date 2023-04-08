@@ -19,7 +19,7 @@
  
  ### DOWNLOADING_SCRIPT :
  ```bash 
-     sudo git clone https://github.com/shybu9/EAZE-POT.git 
+     sudo git clone https://github.com/shybu9/EAZE-POT
  ``` 
  
  ### USAGE
